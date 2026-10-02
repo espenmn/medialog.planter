@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layers>
+  <layer
+      name="medialog.planter"
+      interface="medialog.planter.interfaces.IMedialogPlanterLayer"
+      />
+</layers>
